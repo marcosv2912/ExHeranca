@@ -1,0 +1,11 @@
+C:\Users\marcos.paixao\source\repos\ExHeranca\ExHeranca\obj\Debug\netcoreapp3.0\ExHeranca.csprojAssemblyReference.cache
+C:\Users\marcos.paixao\source\repos\ExHeranca\ExHeranca\obj\Debug\netcoreapp3.0\ExHeranca.AssemblyInfoInputs.cache
+C:\Users\marcos.paixao\source\repos\ExHeranca\ExHeranca\obj\Debug\netcoreapp3.0\ExHeranca.AssemblyInfo.cs
+C:\Users\marcos.paixao\source\repos\ExHeranca\ExHeranca\bin\Debug\netcoreapp3.0\ExHeranca.exe
+C:\Users\marcos.paixao\source\repos\ExHeranca\ExHeranca\bin\Debug\netcoreapp3.0\ExHeranca.deps.json
+C:\Users\marcos.paixao\source\repos\ExHeranca\ExHeranca\bin\Debug\netcoreapp3.0\ExHeranca.runtimeconfig.json
+C:\Users\marcos.paixao\source\repos\ExHeranca\ExHeranca\bin\Debug\netcoreapp3.0\ExHeranca.runtimeconfig.dev.json
+C:\Users\marcos.paixao\source\repos\ExHeranca\ExHeranca\bin\Debug\netcoreapp3.0\ExHeranca.dll
+C:\Users\marcos.paixao\source\repos\ExHeranca\ExHeranca\bin\Debug\netcoreapp3.0\ExHeranca.pdb
+C:\Users\marcos.paixao\source\repos\ExHeranca\ExHeranca\obj\Debug\netcoreapp3.0\ExHeranca.dll
+C:\Users\marcos.paixao\source\repos\ExHeranca\ExHeranca\obj\Debug\netcoreapp3.0\ExHeranca.pdb
